@@ -53,4 +53,5 @@ hi String		ctermfg=144		cterm=none		guifg=#afaf87	gui=italic
 hi Comment		ctermfg=96		cterm=none		guifg=#875f87	gui=italic
 hi! link FoldColumn		Folded
 hi! link CursorColumn	CursorLine
+hi Conceal		ctermfg=240		ctermbg=none    cterm=none		guifg=#4f4f4f	guibg=#272822 gui=none
 
